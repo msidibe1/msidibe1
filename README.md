@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msidibe1
+- 👋 Hi, I’m Zaverti
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on programming
