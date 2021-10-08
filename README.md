@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @msidibe1
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on project of programming, data
 - 📫 I can be reached via the link opposite :       linkedin.com/in/moussa-sidibe-38553718a
 
